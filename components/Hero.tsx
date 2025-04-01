@@ -62,7 +62,7 @@ const Hero = () => {
             {/* Black Overlay */}
             <div className="absolute inset-0 bg-black opacity-60"></div>
 
-            <div className="w-[70%] lg:w-[60%] absolute left-[12%] top-[30%] flex flex-col gap-3 ">
+            <div className="w-[80%] lg:w-[60%] absolute left-[8%] md:left-[12%] top-[30%] flex flex-col gap-3 ">
               <span className="text-base sm:text-xl font-primary text-white font-semibold">
                 {slide.span}
               </span>

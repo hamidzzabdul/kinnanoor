@@ -19,7 +19,7 @@ const WhatWeDo = () => {
           Sustainable Development
         </p>
       </div>
-      <div className="grid grid-cols-3 gap-6 ">
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 ">
         <div className="w-full h-[250px] rounded-lg bg-gray-200 cursor-pointer"></div>
         <div className="w-full h-[250px] rounded-lg bg-gray-200 cursor-pointer"></div>
         <div className="w-full h-[250px] rounded-lg bg-gray-200 cursor-pointer"></div>

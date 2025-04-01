@@ -6,7 +6,7 @@ const Join = () => {
   return (
     <div className="w-full md:h-[400px] pb-6 md:pb-0 bg-primary flex justify-center items-center">
       <div className="w-[100%] flex flex-col-reverse md:flex-row items-center gap-8">
-        <div className="w-[45%] text-center flex justify-center items-center flex-col">
+        <div className="w-3/4 sm:w-[45%] text-center flex justify-center items-center flex-col">
           <h1 className="font-bold text-white font-primary text-[3rem] md:text-[3.8rem]">
             Join Us
           </h1>

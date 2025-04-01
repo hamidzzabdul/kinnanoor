@@ -16,7 +16,7 @@ const Footer = () => {
               className="w-2/3 mx-auto md:w-full h-full object-cover"
             />
           </div>
-          <p className="text-center w-3/4 md:w-2/3 text-gray-300 font-primary text-sm md:text-base leading-[1.6rem]">
+          <p className="text-center w-[95%] sm:w-3/4 md:w-2/3 text-gray-300 font-primary text-sm md:text-base leading-[1.6rem]">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nam,
             id, nesciunt unde natus minus accusamus expedita eaque enim.
           </p>
@@ -41,7 +41,7 @@ const Footer = () => {
             </Link>
           </div>
 
-          <div className="grid grid-cols-2 md::grid-cols-3 lg:grid-cols-4 items-center justify-center pt-4 gap-2">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 items-center justify-center pt-4 gap-2">
             <Link
               href={"/"}
               className="border-2 border-gray-200 rounded-xl text-white px-3 py-2 text-sm cursor-pointer hover:border-Secondary transition duration-300 text-center"
@@ -69,7 +69,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="w-full h-[15%] bg-footer-secondary flex justify-center items-center ">
+      <div className="w-full h-[15%] bg-footer-secondary hidden  sm:flex justify-center items-center ">
         <div className="w-[80%] mx-auto flex justify-between items-center">
           <p className="text-white font-primary text-xs md:text-sm">
             © 2025 Made by Abdihamid Abdirahim
