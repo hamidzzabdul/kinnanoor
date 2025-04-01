@@ -1,9 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import project1 from "@/app/assets/project1.jpg";
-import project2 from "@/app/assets/project2.jpg";
-import project3 from "@/app/assets/project3.jpg";
+import project1 from "@/public/assets/project1.jpg";
+import project2 from "@/public/assets/project2.jpg";
+import project3 from "@/public/assets/project3.jpg";
 
 const data = [
   {

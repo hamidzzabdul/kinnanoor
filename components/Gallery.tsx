@@ -1,12 +1,13 @@
 import Image from "next/image";
-import image1 from "@/app/assets/image1.jpg";
-import image2 from "@/app/assets/image2.jpg";
-import image3 from "@/app/assets/image3.jpg";
-import image4 from "@/app/assets/image4.jpg";
-import image5 from "@/app/assets/image5.jpg";
-import image6 from "@/app/assets/image6.jpg";
-import image7 from "@/app/assets/image7.jpg";
-import image8 from "@/app/assets/image8.jpg";
+
+import image1 from "@/public/assets/image1.jpg";
+import image2 from "@/public/assets/image2.jpg";
+import image3 from "@/public/assets/image3.jpg";
+import image4 from "@/public/assets/image4.jpg";
+import image5 from "@/public/assets/image5.jpg";
+import image6 from "@/public/assets/image6.jpg";
+import image7 from "@/public/assets/image7.jpg";
+import image8 from "@/public/assets/image8.jpg";
 const data = [
   {
     id: "1",

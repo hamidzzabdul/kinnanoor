@@ -8,9 +8,9 @@ import { useState } from "react";
 import "swiper/css";
 import "swiper/css/effect-fade";
 
-import hero1 from "@/app/assets/image8.jpg";
-import hero2 from "@/app/assets/image6.jpg";
-import hero3 from "@/app/assets/image2.jpg";
+import hero1 from "@/public/assets/image8.jpg";
+import hero2 from "@/public/assets/image6.jpg";
+import hero3 from "@/public/assets/image2.jpg";
 import Link from "next/link";
 
 const slides = [
