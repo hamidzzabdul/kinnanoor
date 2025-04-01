@@ -1,5 +1,5 @@
 // import banner from "@/app/assets/breadcrumb.png";
-import lines from "@/app/assets/lines.png";
+import lines from "@/public/assets/lines.png";
 import Image from "next/image";
 import Link from "next/link";
 
